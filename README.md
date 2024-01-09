@@ -1,2 +1,3 @@
-# reactnative_week01
-WEB- AND HYBRID TECHNOLOGIES IN MOBILE PROGRAMMING
+# WEB- AND HYBRID TECHNOLOGIES IN MOBILE PROGRAMMING - Week 1
+
+My solutions for web- and hybrid technologies in mobile programming course from Oulu University of Applied Sciences.
